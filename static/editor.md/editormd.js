@@ -167,7 +167,7 @@
                                                // Support Editor.md logo icon emoji :editormd-logo: :editormd-logo-1x: > 1~8x;
         tex                  : false,          // TeX(LaTeX), based on KaTeX
         flowChart            : false,          // flowChart.js only support IE9+
-        sequenceDiagram      : false,          // sequenceDiagram.js only support IE9+
+        sequenceDiagram      : true,          // sequenceDiagram.js only support IE9+
         previewCodeHighlight : true,
                 
         toolbar              : true,           // show/hide toolbar

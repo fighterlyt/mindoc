@@ -14,6 +14,7 @@ $(function () {
         fileUploadURL : window.fileUploadURL,
         taskList : true,
         flowChart : true,
+        sequenceDiagram:true,
         htmlDecode : "style,script,iframe,title,onmouseover,onmouseout,style",
         lineNumbers : false,
         tocStartLevel : 1,

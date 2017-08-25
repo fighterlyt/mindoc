@@ -17,7 +17,7 @@ import (
 	"os"
 
 	"log"
-	"github.com/lifei6671/mindoc/models"
+	"github.com/fighterlyt/mindoc/models"
 	"container/list"
 	"fmt"
 	"github.com/astaxie/beego"

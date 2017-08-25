@@ -1,4 +1,4 @@
-package: github.com/lifei6671/mindoc
+package: github.com/fighterlyt/mindoc
 import:
 - package: github.com/astaxie/beego
   version: ^1.8.3

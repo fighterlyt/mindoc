@@ -2,7 +2,7 @@ package models
 
 import (
 	"time"
-	"github.com/lifei6671/mindoc/conf"
+	"github.com/fighterlyt/mindoc/conf"
 	"sync/atomic"
 	"github.com/astaxie/beego/orm"
 	"errors"

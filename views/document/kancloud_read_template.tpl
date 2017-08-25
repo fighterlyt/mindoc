@@ -89,21 +89,21 @@
                         <p>SmartWiki是一款针对IT团队开发的简单好用的文档管理系统。
                             可以用来储存日常接口文档，数据库字典，手册说明等文档。内置项目管理，用户管理，权限管理等功能，能够满足大部分中小团队的文档管理需求。</p>
                         <h2 id="h2-u4f7fu7528"><a name="使用" class="reference-link"></a><span class="header-link octicon octicon-link"></span>使用</h2>
-                        <pre><code>git clone https://github.com/lifei6671/SmartWiki.git
+                        <pre><code>git clone https://github.com/fighterlyt/SmartWiki.git
 </code></pre>
                         <p>配置laravel的运行环境,然后打开首页会自动跳转到安装页面。</p>
                         <p>因为laravel使用了composer，所以需要服务器安装composer进行包的还原。</p>
                         <h2 id="h2-u90e8u5206u622au56fe"><a name="部分截图" class="reference-link"></a><span class="header-link octicon octicon-link"></span>部分截图</h2>
                         <p><strong>个人资料</strong></p>
-                        <p><img src="https://raw.githubusercontent.com/lifei6671/SmartWiki/master/storage/app/images/20161124082553.png" alt="个人资料" /></p>
+                        <p><img src="https://raw.githubusercontent.com/fighterlyt/SmartWiki/master/storage/app/images/20161124082553.png" alt="个人资料" /></p>
                         <p><strong>我的项目</strong></p>
-                        <p><img src="https://raw.githubusercontent.com/lifei6671/SmartWiki/master/storage/app/images/20161124082647.png" alt="我的项目" /></p>
+                        <p><img src="https://raw.githubusercontent.com/fighterlyt/SmartWiki/master/storage/app/images/20161124082647.png" alt="我的项目" /></p>
                         <p><strong>项目参与用户</strong></p>
-                        <p><img src="https://raw.githubusercontent.com/lifei6671/SmartWiki/master/storage/app/images/20161124082703.png" alt="项目参与用户" /></p>
+                        <p><img src="https://raw.githubusercontent.com/fighterlyt/SmartWiki/master/storage/app/images/20161124082703.png" alt="项目参与用户" /></p>
                         <p><strong>文档编辑</strong></p>
-                        <p><img src="https://raw.githubusercontent.com/lifei6671/SmartWiki/master/storage/app/images/20161124082810.png" alt="文档编辑" /></p>
+                        <p><img src="https://raw.githubusercontent.com/fighterlyt/SmartWiki/master/storage/app/images/20161124082810.png" alt="文档编辑" /></p>
                         <p><strong>文档模板</strong></p>
-                        <p><img src="https://raw.githubusercontent.com/lifei6671/SmartWiki/master/storage/app/images/20161124082844.png" alt="文档模板" /></p>
+                        <p><img src="https://raw.githubusercontent.com/fighterlyt/SmartWiki/master/storage/app/images/20161124082844.png" alt="文档模板" /></p>
                         <h2 id="h2-u4f7fu7528u7684u6280u672f"><a name="使用的技术" class="reference-link"></a><span class="header-link octicon octicon-link"></span>使用的技术</h2>
                         <ul>
                             <li>laravel 5.2</li>

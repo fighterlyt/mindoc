@@ -3,8 +3,8 @@ package routers
 import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
-	"github.com/lifei6671/mindoc/conf"
-	"github.com/lifei6671/mindoc/models"
+	"github.com/fighterlyt/mindoc/conf"
+	"github.com/fighterlyt/mindoc/models"
 	"encoding/json"
 )
 

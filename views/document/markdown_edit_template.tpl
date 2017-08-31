@@ -359,6 +359,8 @@
                 }catch(e){
                     console.log(e);
                 }
+            }else{
+               window.uploader.options.formData.doc_id=window.selectNode.id;
             }
         });
     });
